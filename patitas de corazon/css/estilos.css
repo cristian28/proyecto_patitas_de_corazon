@@ -1,0 +1,104 @@
+#contenidos{
+	width: 960px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	color: #E80CCD;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	padding: 18px;
+	text-align: center
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #D794FF;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #C676FF;
+}
+
+#articulos{
+	width: 480px;
+	height: auto;
+	float: right;
+	padding: 11px;
+	font-size: 13px;
+	/*position: relative;*/
+}
+
+#imagen{
+width: 20px;
+height: auto;
+padding: 11px;
+}
+
+
+
+.formulario {
+display:block;
+margin:0 auto;
+width:510px;
+color: #666666;
+font-family:Arial;
+}
+form {
+margin:0 auto;
+width:400px;
+}
+
+input, textarea {
+width:380px;
+height:27px;
+background:#666666;
+border:2px solid #f6f6f6;
+padding:10px;
+margin-top:5px;
+font-size:10px;
+color:#ffffff;
+}
+
+textarea {
+height:150px;
+}
+
+#submit {
+width:25px;
+height:20px;
+border:none;
+margin-top:10px;
+cursor:pointer;
+}
+
+footer{
+
+	text-align: center;
+	background-color: #D794FF;
+	color: white;
+	width: 960px;
+	margin: auto;
+	padding: 7px;
+	margin-top: 180px;
+
+	
+}
